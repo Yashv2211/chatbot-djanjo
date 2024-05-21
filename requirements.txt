@@ -1,0 +1,15 @@
+pinecone-client
+pytest
+# openai==0.28
+python-dotenv
+django
+flask
+ipykernel
+langchain
+pinecone-client==3.0.0 
+pinecone-datasets==0.7.0 
+langchain-pinecone==0.0.3 
+langchain-openai==0.0.7
+langchain-community
+djangorestframework
+# -e .
